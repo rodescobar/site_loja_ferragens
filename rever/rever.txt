@@ -1,0 +1,4 @@
+1) Tabelas Login e Admi deixam de existir.
+- Os dados de login entram em Clientes
+- Clientes passa a chamar pessoa
+- E como só existe a figura de Adm e Cliente, colcoar um cmapo inteiro em pessoa onde 0 - Adm e 1 Clietne
